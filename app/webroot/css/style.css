@@ -1,0 +1,15 @@
+label {
+    text-decoration-color: darkblue;
+}
+
+.oculto {
+    display: none;
+}
+
+.activo {
+    color: orangered;
+}
+
+.buttom {
+    color:whitesmoke;
+}
